@@ -1,6 +1,6 @@
-# SGNet
+# SRNet
 
- A Global-Local Feature Fusion Network for Randomly Missing Seismic Data Reconstruction ([Paper]())
+ Multi-Scale Semantic Learning for Visual-Guided Seismic Data Reconstruction
 
 ## Prerequisites
 - Python 3.8
