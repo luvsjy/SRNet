@@ -1,6 +1,6 @@
 # SRNet
 
- Multi-Scale Semantic Learning for Visual-Guided Seismic Data Reconstruction
+ This repository contains the official PyTorch implementation of the paper 'Multi-Scale Semantic Learning for Visual-Guided Seismic Data Reconstruction' submitted to The Visual Computer.
 
 ## Prerequisites
 - Python 3.8
@@ -21,7 +21,7 @@ python test_and_save.py --dataroot D:/SoftWare/ChengxuXiangmu/LG_Data/Seismic_xi
 We use [BP 2007 synthetic seismic data](https://wiki.seg.org/wiki/2007_BP_Anisotropic_Velocity_Benchmark) , [fild seismic data](https://wiki.seg.org/wiki/2004_BP_velocity_estimation_benchmark_model)
 
 ## Pretrained Models
-You can download the pre-trained model from [BP 2007 synthetic seismic data](https://drive.google.com/drive/folders/1mlX_r6upxZXzbz6bIXa8fQngRGP8kbi3?usp=drive_link)
+You can download the pre-trained model from [BP 2007 synthetic seismic data](https://drive.google.com/drive/folders/10PZrs_k6_KZRfnlEUSy5CSkSRCtD3UYV)
 
 ## Citation
 If you find this useful for your research, please use the following.
